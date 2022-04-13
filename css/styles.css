@@ -2,7 +2,18 @@
 /* CSS Document */
 
 @import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Bebas+Neue&family=Yeseva+One&display=swap');
+.section{
+	background-color: #FFDDF0
+}
 
+.container-fluid{
+	background-color: #FFDDF0
+		
+}
+
+.h-100{
+	background-color:#FFEFF6
+}
 navbar {font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 background-color: aqua;
 font-family: 'Beau Rivage', cursive;
@@ -14,10 +25,15 @@ font-family: 'Beau Rivage', cursive;
 
 .navbar {
 	background-color: pink;
+
+}
+
+
 }
 
 .btn-primary{ 
 	background-color: pink;
+}
 
 p {
 	font-family: 'Yeseva One', cursive;

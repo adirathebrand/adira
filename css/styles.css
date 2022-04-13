@@ -16,14 +16,17 @@ font-family: 'Beau Rivage', cursive;
 	background-color: pink;
 }
 
+.btn-primary{ 
+	background-color: pink;
+
 p {
 	font-family: 'Yeseva One', cursive;
-	
 }
+	
 .section{
-	background-color: lightgray
+	background-color: #FFDDF0
 }
 
 .container-fluid{
-	background-color: lightgray
+	background-color: #FFDDF0
 }

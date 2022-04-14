@@ -1,26 +1,38 @@
 @charset "utf-8";
 /* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=PT+Sans+Narrow&family=Raleway:wght@300&family=Sansita+Swashed:wght@300&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Bebas+Neue&family=Yeseva+One&display=swap');
 .section{
-	background-color: #FFDDF0
+	background-color: #F4DCDE
 }
 
 p2 { 
-font-size: 32px}
+font-size: 45px}
+
+p2 { 
+	font-family: 'Yeseva one', sans-serif;
+
+}
+
+h2 {
+	font-family: 'Yeseva one', sans-serif;
+}
+
+h4 {
+	font-family: 'Yeseva one', sans-serif;
+
+}
 
 .container-fluid{
-	background-color: #FFDDF0
+	background-color: #F4DCDE
 		
 }
 
 .h-100{
 	background-color:#FFEFF6
 }
-navbar {font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
-background-color: aqua;
-font-family: 'Beau Rivage', cursive;
-}
+
 
 .custumlink {
 	background-color: red !important;
@@ -33,12 +45,9 @@ font-family: 'Beau Rivage', cursive;
 
 
 .btn-primary{ 
-	background-color: pink !important;
+	background-color: #FF4CA9 !important;
 }
 
-p {
-	font-family: 'Yeseva One', cursive;
-}
 	
 .section{
 	background-color: #FFDDF0
@@ -47,3 +56,49 @@ p {
 .container-fluid{
 	background-color: #FFDDF0
 }
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+h5 { 
+font-family: 'Yeseva one', sans-serif;
+}
+
+dd{ 
+font-family: 'Raleway', sans-serif;
+}
+
+a{ 
+font-family: 'Raleway', sans-serif;
+}
+
+dt{ 
+font-family: 'Raleway', sans-serif;
+}
+
+h5 {
+	color: #FF4CA9
+}
+
+h4 {
+	color: #FFFFFF
+}
+body {
+  background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);
+}
+
+.card-header{ 	background-color: #FF4CA9 !important;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+
+
+

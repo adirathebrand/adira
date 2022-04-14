@@ -6,6 +6,9 @@
 	background-color: #FFDDF0
 }
 
+p2 { 
+font-size: 32px}
+
 .container-fluid{
 	background-color: #FFDDF0
 		
@@ -29,10 +32,8 @@ font-family: 'Beau Rivage', cursive;
 }
 
 
-}
-
 .btn-primary{ 
-	background-color: pink;
+	background-color: pink !important;
 }
 
 p {
